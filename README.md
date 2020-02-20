@@ -1,6 +1,4 @@
-<img src="https://penguin-stats.s3.ap-southeast-1.amazonaws.com/logos/penguin_stats_logo.png"
-     alt="Penguin Statistics - Logo"
-     style="width: 64px" />
+
 
 # Penguin Statistics!
 [![License](https://img.shields.io/github/license/penguin-statistics/frontend-v2)](https://github.com/penguin-statistics/frontend-v2/blob/dev/LICENSE)
